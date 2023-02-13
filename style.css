@@ -30,14 +30,14 @@ Divide by 2 --> 243.5 px;
  */
 
 .product-info {
-  width: 243px;
+  width: 243.5px;
   margin-right: 40px;
   float: left;
   margin-top: 20px;
 }
 
 .product-details {
-  width: 240px;
+  width: 243.5px;
   float: left;
   margin-top: 20px;
 }
